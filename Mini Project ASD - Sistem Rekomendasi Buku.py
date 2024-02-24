@@ -34,10 +34,6 @@ Daftar_Buku = [
     Buku(10, "Frankenstein", "Mary Shelley", 1818, "Horror", 4.6, random.randint(100, 1000))
 ]
 
-# # Menampilkan informasi tentang setiap buku
-# for Buku in Daftar_Buku:
-#     Buku.display_info()
-#     print()
 
 # Fungsi untuk menampilkan menu admin
 def menu_admin():
